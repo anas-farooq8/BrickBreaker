@@ -1,4 +1,4 @@
-# LSD - Local Service Directory
+# Brick Breaker
 
 ## Requirements
 - DOSBox DOS Emulator.
